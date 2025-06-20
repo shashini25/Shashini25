@@ -1,4 +1,4 @@
-
+<h2 align="left">Hi 👋! My name is Shashini and I'm a Fullstack Developer, from Sri Lanka</h2>
 
 ###
 
