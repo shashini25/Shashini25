@@ -54,22 +54,3 @@
     
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)   ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
-<hr>
-
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-
-<div align="center">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashinimuthumali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-</div>
-<hr>
-
-<h3 align="left">Activity:</h3>
-
-![alt text](https://github-readme-activity-graph.vercel.app/graph?username=tharindu-sandaruwan&custom_title=Tharindu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=1F75FE&line=1F75FE&point=1F75FE&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
