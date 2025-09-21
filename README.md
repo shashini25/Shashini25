@@ -61,8 +61,8 @@
 
 <div align="center">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/?username=tharindu-sandaruwan&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu-sandaruwan&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/> 
+<img height="200em" src="https://github-readme-stats.vercel.app/api/?username=shashini-muthumali&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashini-muthumali&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/> 
 
 </div>
 <hr>
