@@ -3,19 +3,19 @@
 </div> -->
 
  
- #  Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Tharindu Sandaruwan <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+ #  Hey there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Shashini Muthumali <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
  
 
 
 ### About Me:
 
-- 👨‍🎓 4th year Software engineering Undergraduate at SLIIT
+- 👨‍🎓  Software engineering Undergraduate 
 
-- 🌱 I’m currently learning: **Spring Boot**
+- 🌱 I’m currently learning: **ReactJs,ExpressJs**
 
-- 💬 Ask me about: **Java, SpringBoot, ReactJs, Docker**
+- 💬 Ask me about: **Java, ReactJs**
 
-- 📫 How to reach me **tharindusandaruwan011@gmail.com**
+- 📫 How to reach me **shashinimuthumali31@gmail.com**
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
